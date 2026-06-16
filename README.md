@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Welcome%20to%20Tanvir's%20Github&fontSize=35&subText=Full-Stack%20Web%20Developer%20%7C%20Software%20Engineer&subTextActive=true&theme=dark" width="100%"/>
+<img src="https://i.pinimg.com/736x/95/d5/89/95d5899f5b284be71bd4eb380ef40976.jpg" width="100%"/>
 
 <p align="center">
   <a href="https://tanvir778.netlify.app/" target="_blank">
@@ -22,7 +22,7 @@
 
 <h2 align="center"><img src="https://img.shields.io/badge/-%20About%20Me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" height="32"/></h2>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="250" align="right" style="margin-left: 20px" />
+<img src="https://i.pinimg.com/736x/39/03/09/39030909eb78fdd789ee683a890f6362.jpg" width="250" align="right" style="margin-left: 20px" />
 
 <p>
   Hello there! <b><i>I'm Kazi Tanvir</i></b>, a passionate Full-Stack Developer from Bangladesh. I love building scalable web applications, crafting clean code, and solving complex problems. Currently focused on React, Next.js, Node.js, and modern backend architectures.
@@ -31,6 +31,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Studying_at_University_of_Dhaka-000000?style=flat&logo=bookstack&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Specializing_in_Full--Stack_Development-000000?style=flat&logo=codeforces&logoColor=white" /><br>
+  <img src="" /><br>
+  <img src="" /><br>
+  <img src="" /><br>
+  <img src="" /><br>
+  <img src="" /><br>
+
 </p>
 
 <hr>
