@@ -1,22 +1,20 @@
-<div align="center">
-
-<!-- Header Banner GIF -->
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="banner" />
-
-</div>
-
-<h1 align="center">Hi 👋! I'm Kazi Tanvir, a Full-Stack Developer from Bangladesh</h1>
-
-<h3 align="center">🚀 Passionate about building scalable web applications & crafting seamless user experiences</h3>
-
-<br/>
-
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js+Enthusiast;Building+Products+That+Matter;Always+Learning+New+Technologies" alt="Typing SVG" />
-  </a>
-</p>
+<!-- Header: Description Left, GIF Right (1/5 width) -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="80%" valign="middle">
+      <h1>Hi 👋! I'm Kazi Tanvir</h1>
+      <h3>🚀 Full-Stack Developer from Bangladesh</h3>
+      <p>Passionate about building scalable web applications & crafting seamless user experiences. I love turning ideas into reality through clean code and thoughtful design.</p>
+      <!-- Typing SVG -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=6C63FF&vCenter=true&random=false&width=500&lines=Full-Stack+Web+Developer;Next.js+%7C+React+%7C+Node.js;Building+Products+That+Matter;Always+Learning+New+Technologies" alt="Typing SVG" />
+      </a>
+    </td>
+    <td width="20%" valign="middle" align="right">
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="100%" alt="banner gif" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -105,19 +103,33 @@
 <h2 align="center">📌 Pinned Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/Kazi-Tanvir?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Kazi-Tanvir&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
-  </a>
-</div>
 
-> 💡 **Tip:** Pin your best repositories on your GitHub profile, and replace the repo names above to showcase them here!
->
-> Use this template for each pinned project:
-> ```markdown
-> <a href="https://github.com/Kazi-Tanvir/REPO_NAME">
->   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
-> </a>
-> ```
+<a href="https://github.com/Kazi-Tanvir/VOXAGENT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=VOXAGENT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/Kazi-Tanvir/e-commerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=e-commerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/Kazi-Tanvir/ShinDB">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=ShinDB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/Kazi-Tanvir/KT_PORTFOLIO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=KT_PORTFOLIO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/Kazi-Tanvir/Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Python&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/Kazi-Tanvir/Obsidian-Notes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Obsidian-Notes&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/Kazi-Tanvir/OLD_PROJECTS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=OLD_PROJECTS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B6B&text_color=C9D1D9" />
+</a>
+
+</div>
 
 <br/>
 
