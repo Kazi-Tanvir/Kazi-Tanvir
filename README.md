@@ -31,11 +31,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Studying_at_University_of_Dhaka-000000?style=flat&logo=bookstack&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Specializing_in_Full--Stack_Development-000000?style=flat&logo=codeforces&logoColor=white" /><br>
-  <img src="" /><br>
-  <img src="" /><br>
-  <img src="" /><br>
-  <img src="" /><br>
-  <img src="" /><br>
+  <img src="https://www.colorhexa.com/0d1117.png" width = "10px" /><br>
+  <img src="https://www.colorhexa.com/0d1117.png" width = "10px" /><br>
+  <img src="https://www.colorhexa.com/0d1117.png" width = "10px" /><br>
+  <img src="https://www.colorhexa.com/0d1117.png" width = "10px" /><br>
+  <img src="https://www.colorhexa.com/0d1117.png" width = "10px" /><br>
 
 </p>
 
