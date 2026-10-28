@@ -1,6 +1,13 @@
 import os
+import xml.sax.saxutils as saxutils
+
+def escape_xml(s):
+    return saxutils.escape(s)
 
 def create_header(filename, sys_code, title_en, title_jp, subtitle):
+    title_en = escape_xml(title_en)
+    title_jp = escape_xml(title_jp)
+    subtitle = escape_xml(subtitle)
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 72" width="100%" height="72">
   <defs>
     <!-- Bayer Matrix 1-Bit Dither Patterns (Strictly #050C2A & #E9EBFF) -->
@@ -146,6 +153,12 @@ def create_sys_bar(filename):
     print(f"Updated {filename}")
 
 def create_project_card(filename, sys_id, file_name, title, jp_name, desc, tags, status, icon_type):
+    file_name = escape_xml(file_name)
+    title = escape_xml(title)
+    jp_name = escape_xml(jp_name)
+    desc = escape_xml(desc)
+    status = escape_xml(status)
+
     if icon_type == "audio":
         icon_svg = """
         <rect x="14" y="52" width="4" height="24" fill="#E9EBFF" shape-rendering="crispEdges"/>
@@ -205,10 +218,11 @@ def create_project_card(filename, sys_id, file_name, title, jp_name, desc, tags,
     tag_elements = ""
     offset_x = 64
     for t in tags:
+        t_clean = escape_xml(t)
         width = len(t) * 7 + 14
         tag_elements += f"""
         <rect x="{offset_x}" y="106" width="{width}" height="18" fill="#050C2A" stroke="#E9EBFF" stroke-width="1" shape-rendering="crispEdges"/>
-        <text x="{offset_x + width//2}" y="119" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle">{t}</text>
+        <text x="{offset_x + width//2}" y="119" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle">{t_clean}</text>
         """
         offset_x += width + 6
 
@@ -293,7 +307,7 @@ create_header("assets/header-contact.svg", "05", "COMMUNICATION_CHANNELS", "通�
 create_divider("assets/divider.svg")
 create_sys_bar("assets/sys-bar.svg")
 
-# 6 Curated Project Cards
+# 6 Curated Project Cards (XML Escaped)
 create_project_card(
     "assets/card-voiceagent.svg",
     "01", "VOICEAGENT.EXE", "VoiceAgent", "音声AI",

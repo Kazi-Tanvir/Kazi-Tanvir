@@ -149,49 +149,73 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/Kazi-Tanvir/PROJECTS/tree/main/VoiceAgent" target="_blank">
-    <img src="assets/card-voiceagent.svg" width="410" alt="VoiceAgent: Autonomous Voice AI Agent System" />
-  </a>
-  <a href="https://github.com/Kazi-Tanvir/Working/tree/main/ShinDB" target="_blank">
-    <img src="assets/card-shindb.svg" width="410" alt="ShinDB: High-Performance In-Memory Key-Value Store" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kazi-Tanvir/Working/tree/main/E_Commerce" target="_blank">
-    <img src="assets/card-ecommerce.svg" width="410" alt="E-Commerce: Scalable Full-Stack Commerce Engine" />
-  </a>
-  <a href="https://github.com/Kazi-Tanvir/PROJECTS/tree/main/RoutineDB" target="_blank">
-    <img src="assets/card-routinedb.svg" width="410" alt="RoutineDB: Academic Routine & Schedule Database" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kazi-Tanvir/Portfolio" target="_blank">
-    <img src="assets/card-portfolio.svg" width="410" alt="Portfolio: Personal Web Platform & Interactive UI" />
-  </a>
-  <a href="https://github.com/Kazi-Tanvir/Working/tree/main/LifeOS" target="_blank">
-    <img src="assets/card-lifeos.svg" width="410" alt="LifeOS: Personal Productivity & Workflow System" />
-  </a>
-</p>
+<table border="0" cellpadding="6" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/PROJECTS/tree/main/VoiceAgent">
+        <img src="assets/card-voiceagent.svg" width="100%" alt="VoiceAgent: Autonomous Voice AI Agent System" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/Working/tree/main/ShinDB">
+        <img src="assets/card-shindb.svg" width="100%" alt="ShinDB: High-Performance In-Memory Key-Value Store" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/Working/tree/main/E_Commerce">
+        <img src="assets/card-ecommerce.svg" width="100%" alt="E-Commerce: Scalable Full-Stack Commerce Engine" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/PROJECTS/tree/main/RoutineDB">
+        <img src="assets/card-routinedb.svg" width="100%" alt="RoutineDB: Academic Routine &amp; Schedule Database" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/Portfolio">
+        <img src="assets/card-portfolio.svg" width="100%" alt="Portfolio: Personal Web Platform &amp; Interactive UI" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/Working/tree/main/LifeOS">
+        <img src="assets/card-lifeos.svg" width="100%" alt="LifeOS: Personal Productivity &amp; Workflow System" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/Kazi-Tanvir/PROJECTS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="PROJECTS Repo" />
-  </a>
-  <a href="https://github.com/Kazi-Tanvir/Working">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Working&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="Working Repo" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kazi-Tanvir/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Portfolio&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="Portfolio Repo" />
-  </a>
-  <a href="https://github.com/Kazi-Tanvir/Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Python&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="Python Repo" />
-  </a>
-</p>
+<table border="0" cellpadding="6" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/PROJECTS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="PROJECTS Repo" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/Working">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Working&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Working Repo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Portfolio&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Portfolio Repo" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/Kazi-Tanvir/Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Python&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Python Repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 <p align="center">

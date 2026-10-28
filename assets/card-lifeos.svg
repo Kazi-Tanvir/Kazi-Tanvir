@@ -57,7 +57,7 @@
 
   <!-- Specification Line -->
   <text x="64" y="72" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="10.5" letter-spacing="0.5" opacity="0.9">
-    &gt;&gt; Personal Productivity & Workflow System
+    &gt;&gt; Personal Productivity &amp; Workflow System
   </text>
 
   <!-- Dither Separator Line -->
