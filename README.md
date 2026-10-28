@@ -205,8 +205,8 @@
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Kazi-Tanvir/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Portfolio&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Portfolio Repo" />
+      <a href="https://github.com/Kazi-Tanvir/OLD_PROJECTS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=OLD_PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="OLD_PROJECTS Repo" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
