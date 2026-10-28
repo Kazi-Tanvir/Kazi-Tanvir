@@ -1,4 +1,4 @@
-<img src="Screenshot 2026-10-28 142038.png" width="100%"/>
+<img src="banner.png" width="100%"/>
 
 <p align="center">
   <a href="https://tanvir778.netlify.app/" target="_blank">
@@ -22,7 +22,7 @@
 
 <h2 align="center"><img src="https://img.shields.io/badge/-%20About%20Me-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" height="32"/></h2>
 
-<img src="https://i.pinimg.com/736x/39/03/09/39030909eb78fdd789ee683a890f6362.jpg" width="250" align="right" style="margin-left: 20px" />
+<img src="profile.jfif" width="250" align="right" style="margin-left: 20px" />
 
 <p>
   Hello there! <b><i>I'm Kazi Tanvir</i></b>, a passionate Full-Stack Developer from Bangladesh. I love building scalable web applications, crafting clean code, and solving complex problems. Currently focused on React, Next.js, Node.js, and modern backend architectures.
