@@ -1,4 +1,4 @@
-<img src="Halftone Anime Girl in Lavender Negative Space.png" width="100%"/>
+<img src="Screenshot 2026-10-28 142038.png" width="100%"/>
 
 <p align="center">
   <a href="https://tanvir778.netlify.app/" target="_blank">
