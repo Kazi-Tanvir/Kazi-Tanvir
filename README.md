@@ -141,16 +141,38 @@
 
 <div align="center">
 
-| SYS ID | MISSION CODEBASE | ARCHITECTURE SPECIFICATION | RUNTIME STACK | STATUS |
-| :---: | :--- | :--- | :--- | :---: |
-| `[01]` | [**VoiceAgent**](https://github.com/Kazi-Tanvir/PROJECTS/tree/main/VoiceAgent) | Autonomous Voice AI Agent System | `Next.js` `Fastify` `AI` | `DEPLOYED` |
-| `[02]` | [**ShinDB**](https://github.com/Kazi-Tanvir/Working/tree/main/ShinDB) | High-Performance In-Memory Key-Value Store | `C` `Data Structures` | `OPTIMIZED` |
-| `[03]` | [**E-Commerce**](https://github.com/Kazi-Tanvir/Working/tree/main/E_Commerce) | Scalable Full-Stack Commerce Engine | `Next.js` `Prisma` `Stripe` | `ACTIVE` |
-| `[04]` | [**RoutineDB**](https://github.com/Kazi-Tanvir/PROJECTS/tree/main/RoutineDB) | Academic Routine &amp; Schedule Database | `TypeScript` `Database` | `STABLE` |
-| `[05]` | [**Portfolio**](https://github.com/Kazi-Tanvir/Portfolio) &bull; [Demo](https://tanvir778.netlify.app/) | Personal Web Platform &amp; Interactive UI | `React` `Modern CSS` | `ONLINE` |
-| `[06]` | [**LifeOS**](https://github.com/Kazi-Tanvir/Working/tree/main/LifeOS) | Personal Productivity &amp; Workflow System | `TypeScript` `Productivity` | `LABS` |
+```text
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║ [PROGRAM DIRECTORY: /SYSTEM/MISSIONS] ░▒▓           STATUS: 6 MOUNTED VOLUMES ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/Kazi-Tanvir/PROJECTS/tree/main/VoiceAgent" target="_blank">
+    <img src="assets/card-voiceagent.svg" width="410" alt="VoiceAgent: Autonomous Voice AI Agent System" />
+  </a>
+  <a href="https://github.com/Kazi-Tanvir/Working/tree/main/ShinDB" target="_blank">
+    <img src="assets/card-shindb.svg" width="410" alt="ShinDB: High-Performance In-Memory Key-Value Store" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Kazi-Tanvir/Working/tree/main/E_Commerce" target="_blank">
+    <img src="assets/card-ecommerce.svg" width="410" alt="E-Commerce: Scalable Full-Stack Commerce Engine" />
+  </a>
+  <a href="https://github.com/Kazi-Tanvir/PROJECTS/tree/main/RoutineDB" target="_blank">
+    <img src="assets/card-routinedb.svg" width="410" alt="RoutineDB: Academic Routine & Schedule Database" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Kazi-Tanvir/Portfolio" target="_blank">
+    <img src="assets/card-portfolio.svg" width="410" alt="Portfolio: Personal Web Platform & Interactive UI" />
+  </a>
+  <a href="https://github.com/Kazi-Tanvir/Working/tree/main/LifeOS" target="_blank">
+    <img src="assets/card-lifeos.svg" width="410" alt="LifeOS: Personal Productivity & Workflow System" />
+  </a>
+</p>
 
 <br>
 

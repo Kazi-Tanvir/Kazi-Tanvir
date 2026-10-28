@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 138" width="100%" height="138">
+  <defs>
+    <pattern id="card-bayer25-02" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#050C2A" />
+      <rect x="0" y="0" width="2" height="2" fill="#E9EBFF" />
+    </pattern>
+    <pattern id="card-bayer50-02" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#050C2A" />
+      <rect x="0" y="0" width="2" height="2" fill="#E9EBFF" />
+      <rect x="2" y="2" width="2" height="2" fill="#E9EBFF" />
+    </pattern>
+  </defs>
+
+  <!-- Hard Drop Shadow (4px) -->
+  <rect x="6" y="6" width="400" height="128" fill="#050C2A" shape-rendering="crispEdges"/>
+
+  <!-- Main Card Body -->
+  <rect x="2" y="2" width="400" height="128" fill="#050C2A" stroke="#E9EBFF" stroke-width="2" shape-rendering="crispEdges"/>
+
+  <!-- Header Title Bar -->
+  <rect x="2" y="2" width="400" height="26" fill="#050C2A" stroke="#E9EBFF" stroke-width="1.5" shape-rendering="crispEdges"/>
+
+  <!-- Window Box Controls -->
+  <rect x="8" y="7" width="16" height="16" fill="#050C2A" stroke="#E9EBFF" stroke-width="1.5" shape-rendering="crispEdges"/>
+  <rect x="12" y="14" width="8" height="2" fill="#E9EBFF" shape-rendering="crispEdges"/>
+
+  <!-- File Label -->
+  <text x="30" y="19" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="11" font-weight="bold" letter-spacing="1">
+    [02] SHINDB.BIN
+  </text>
+
+  <!-- Dither Spectrum inside Title Bar -->
+  <rect x="220" y="7" width="30" height="16" fill="url(#card-bayer50-02)" shape-rendering="crispEdges"/>
+
+  <!-- Status Badge -->
+  <rect x="312" y="6" width="84" height="18" fill="#E9EBFF" shape-rendering="crispEdges"/>
+  <text x="354" y="19" fill="#050C2A" font-family="'Courier New', monospace" font-size="9" font-weight="900" text-anchor="middle" letter-spacing="1">
+    OPTIMIZED
+  </text>
+
+  <!-- Icon Section -->
+  
+        <rect x="14" y="40" width="36" height="6" fill="#E9EBFF" shape-rendering="crispEdges"/>
+        <rect x="14" y="48" width="36" height="3" fill="#E9EBFF" shape-rendering="crispEdges"/>
+        <rect x="14" y="53" width="4" height="36" fill="#E9EBFF" shape-rendering="crispEdges"/>
+        <rect x="46" y="53" width="4" height="36" fill="#E9EBFF" shape-rendering="crispEdges"/>
+        <rect x="14" y="65" width="36" height="3" fill="#E9EBFF" shape-rendering="crispEdges"/>
+        <rect x="14" y="78" width="36" height="3" fill="#E9EBFF" shape-rendering="crispEdges"/>
+        <rect x="14" y="88" width="36" height="4" fill="#E9EBFF" shape-rendering="crispEdges"/>
+        
+
+  <!-- Project Title & Japanese -->
+  <text x="64" y="52" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="14" font-weight="900" letter-spacing="1">
+    ShinDB
+  </text>
+  <text x="390" y="52" fill="#E9EBFF" font-family="'Courier New', 'MS Gothic', monospace" font-size="11" text-anchor="end" opacity="0.8">
+    // 高速記憶
+  </text>
+
+  <!-- Specification Line -->
+  <text x="64" y="72" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="10.5" letter-spacing="0.5" opacity="0.9">
+    &gt;&gt; High-Performance In-Memory Key-Value Store
+  </text>
+
+  <!-- Dither Separator Line -->
+  <rect x="64" y="88" width="330" height="2" fill="#E9EBFF" opacity="0.4" shape-rendering="crispEdges"/>
+  <rect x="300" y="87" width="40" height="4" fill="url(#card-bayer25-02)" shape-rendering="crispEdges"/>
+
+  <!-- Tech Tags -->
+  
+        <rect x="64" y="106" width="21" height="18" fill="#050C2A" stroke="#E9EBFF" stroke-width="1" shape-rendering="crispEdges"/>
+        <text x="74" y="119" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle">C</text>
+        
+        <rect x="91" y="106" width="84" height="18" fill="#050C2A" stroke="#E9EBFF" stroke-width="1" shape-rendering="crispEdges"/>
+        <text x="133" y="119" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle">Algorithms</text>
+        
+        <rect x="181" y="106" width="56" height="18" fill="#050C2A" stroke="#E9EBFF" stroke-width="1" shape-rendering="crispEdges"/>
+        <text x="209" y="119" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="10" font-weight="bold" text-anchor="middle">Binary</text>
+        
+
+  <!-- Execute Prompt Right -->
+  <text x="392" y="120" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="9" font-weight="bold" text-anchor="end" letter-spacing="1">
+    EXEC ▶
+  </text>
+</svg>
