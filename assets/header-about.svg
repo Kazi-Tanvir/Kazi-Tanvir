@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 72" width="100%" height="72">
+  <defs>
+    <!-- Bayer Matrix 1-Bit Dither Patterns (Strictly #050C2A & #E9EBFF) -->
+    <pattern id="bayer12" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#050C2A" />
+      <rect x="0" y="0" width="2" height="2" fill="#E9EBFF" />
+      <rect x="4" y="4" width="2" height="2" fill="#E9EBFF" />
+    </pattern>
+    <pattern id="bayer25" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#050C2A" />
+      <rect x="0" y="0" width="2" height="2" fill="#E9EBFF" />
+    </pattern>
+    <pattern id="bayer50" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#050C2A" />
+      <rect x="0" y="0" width="2" height="2" fill="#E9EBFF" />
+      <rect x="2" y="2" width="2" height="2" fill="#E9EBFF" />
+    </pattern>
+    <pattern id="bayer75" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#E9EBFF" />
+      <rect x="0" y="0" width="2" height="2" fill="#050C2A" />
+    </pattern>
+  </defs>
+
+  <!-- Hard Offset Drop Shadow (4px 4px) -->
+  <rect x="8" y="8" width="838" height="60" fill="#050C2A" shape-rendering="crispEdges"/>
+
+  <!-- Main Chassis / Frame -->
+  <rect x="4" y="4" width="838" height="60" fill="#050C2A" stroke="#E9EBFF" stroke-width="2" shape-rendering="crispEdges"/>
+
+  <!-- Left Window Controls (PC-98 / Mac System 7 Style) -->
+  <rect x="14" y="14" width="16" height="16" fill="#050C2A" stroke="#E9EBFF" stroke-width="2" shape-rendering="crispEdges"/>
+  <rect x="18" y="21" width="8" height="2" fill="#E9EBFF" shape-rendering="crispEdges"/>
+
+  <!-- Dither Spectrum Bar Left -->
+  <rect x="38" y="14" width="10" height="40" fill="url(#bayer12)" shape-rendering="crispEdges" />
+  <rect x="48" y="14" width="10" height="40" fill="url(#bayer25)" shape-rendering="crispEdges" />
+  <rect x="58" y="14" width="10" height="40" fill="url(#bayer50)" shape-rendering="crispEdges" />
+  <rect x="68" y="14" width="10" height="40" fill="url(#bayer75)" shape-rendering="crispEdges" />
+  <rect x="78" y="14" width="6" height="40" fill="#E9EBFF" shape-rendering="crispEdges" />
+
+  <!-- Title Badge -->
+  <rect x="92" y="14" width="68" height="20" fill="#E9EBFF" shape-rendering="crispEdges"/>
+  <text x="126" y="28" fill="#050C2A" font-family="'Courier New', monospace" font-size="11" font-weight="900" text-anchor="middle" letter-spacing="1">
+    SYS::01
+  </text>
+
+  <!-- Main Section Title -->
+  <text x="168" y="30" fill="#E9EBFF" font-family="'Courier New', Courier, monospace" font-size="16" font-weight="900" letter-spacing="2">
+    ABOUT_ME
+  </text>
+  <text x="540" y="30" fill="#E9EBFF" font-family="'Courier New', 'MS Gothic', monospace" font-size="14" font-weight="bold" letter-spacing="3" opacity="0.9">
+    // 概要録
+  </text>
+
+  <!-- Subtitle Terminal Prompt -->
+  <text x="96" y="47" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="10" letter-spacing="1" opacity="0.75">
+    &gt;&gt; OPERATOR IDENTITY // BIOGRAPHY // ACADEMIC DOSSIER
+  </text>
+
+  <!-- System Telemetry Right -->
+  <text x="715" y="26" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="9" letter-spacing="1" opacity="0.8">
+    [ROM: OK]
+  </text>
+  <text x="715" y="42" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="9" letter-spacing="1" opacity="0.8">
+    [CH: 1-BIT]
+  </text>
+
+  <!-- Dither Spectrum Bar Right -->
+  <rect x="780" y="14" width="6" height="40" fill="#E9EBFF" shape-rendering="crispEdges" />
+  <rect x="786" y="14" width="10" height="40" fill="url(#bayer75)" shape-rendering="crispEdges" />
+  <rect x="796" y="14" width="10" height="40" fill="url(#bayer50)" shape-rendering="crispEdges" />
+  <rect x="806" y="14" width="10" height="40" fill="url(#bayer25)" shape-rendering="crispEdges" />
+  <rect x="816" y="14" width="10" height="40" fill="url(#bayer12)" shape-rendering="crispEdges" />
+
+  <!-- Right Window Close Button -->
+  <rect x="830" y="14" width="6" height="40" fill="#050C2A" stroke="#E9EBFF" stroke-width="1" shape-rendering="crispEdges"/>
+</svg>

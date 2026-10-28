@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 36" width="100%" height="36">
+  <defs>
+    <pattern id="sys-dither50" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#050C2A" />
+      <rect x="0" y="0" width="2" height="2" fill="#E9EBFF" />
+      <rect x="2" y="2" width="2" height="2" fill="#E9EBFF" />
+    </pattern>
+  </defs>
+
+  <rect x="4" y="4" width="842" height="28" fill="#050C2A" stroke="#E9EBFF" stroke-width="1.5" shape-rendering="crispEdges"/>
+  
+  <rect x="8" y="8" width="20" height="20" fill="url(#sys-dither50)" shape-rendering="crispEdges" />
+  <rect x="14" y="14" width="8" height="8" fill="#050C2A" stroke="#E9EBFF" stroke-width="1" shape-rendering="crispEdges" />
+
+  <text x="36" y="22" fill="#E9EBFF" font-family="'Courier New', monospace" font-size="11" font-weight="bold" letter-spacing="2">
+    BIOS V98.01 // SYSTEM: TANVIR_MAIN // ARCHITECTURE: 64-BIT FULL-STACK // STATUS: [ONLINE]
+  </text>
+
+  <rect x="822" y="8" width="20" height="20" fill="url(#sys-dither50)" shape-rendering="crispEdges" />
+  <rect x="828" y="14" width="8" height="8" fill="#050C2A" stroke="#E9EBFF" stroke-width="1" shape-rendering="crispEdges" />
+</svg>
