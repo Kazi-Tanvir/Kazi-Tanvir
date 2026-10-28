@@ -194,24 +194,12 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Kazi-Tanvir/PROJECTS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="PROJECTS Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="PROJECTS Monorepo" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Kazi-Tanvir/Working">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Working&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Working Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Kazi-Tanvir/OLD_PROJECTS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=OLD_PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="OLD_PROJECTS Repo" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/Kazi-Tanvir/Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Python&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Python Repo" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Working&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Working Monorepo" />
       </a>
     </td>
   </tr>
