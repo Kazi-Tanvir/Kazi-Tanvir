@@ -141,14 +141,14 @@
 
 <div align="center">
 
-| SYS ID | PROJECT CODEBASE | SPECIFICATION | TECH STACK | REPO STATUS |
+| SYS ID | MISSION CODEBASE | ARCHITECTURE SPECIFICATION | RUNTIME STACK | STATUS |
 | :---: | :--- | :--- | :--- | :---: |
-| `[01]` | [**VOXAGENT**](https://github.com/Kazi-Tanvir/VOXAGENT) | Autonomous Voice AI Agent Platform | `Next.js` `Fastify` `AI` | `DEPLOYED` |
-| `[02]` | [**ShinDB**](https://github.com/Kazi-Tanvir/ShinDB) | High-Performance In-Memory Key-Value Store | `C` `Data Structures` | `OPTIMIZED` |
-| `[03]` | [**Portfolio**](https://github.com/Kazi-Tanvir/Portfolio) | Personal Portfolio & Interactive Interface | `React` `Modern CSS` | `LIVE` |
-| `[04]` | [**E-Commerce**](https://github.com/Kazi-Tanvir/e-commerce) | Full-Scale Scalable Commerce Application | `Next.js` `Prisma` `Stripe` | `ACTIVE` |
-| `[05]` | [**Python Automation**](https://github.com/Kazi-Tanvir/Python) | Algorithmic Solvers & Automations | `Python` `Scripting` | `LABS` |
-| `[06]` | [**PROJECTS Hub**](https://github.com/Kazi-Tanvir/PROJECTS) | Central Repository of Software Systems | `Full-Stack` `Multi-Stack` | `ONLINE` |
+| `[01]` | [**VoiceAgent**](https://github.com/Kazi-Tanvir/PROJECTS/tree/main/VoiceAgent) | Autonomous Voice AI Agent System | `Next.js` `Fastify` `AI` | `DEPLOYED` |
+| `[02]` | [**ShinDB**](https://github.com/Kazi-Tanvir/Working/tree/main/ShinDB) | High-Performance In-Memory Key-Value Store | `C` `Data Structures` | `OPTIMIZED` |
+| `[03]` | [**E-Commerce**](https://github.com/Kazi-Tanvir/Working/tree/main/E_Commerce) | Scalable Full-Stack Commerce Engine | `Next.js` `Prisma` `Stripe` | `ACTIVE` |
+| `[04]` | [**RoutineDB**](https://github.com/Kazi-Tanvir/PROJECTS/tree/main/RoutineDB) | Academic Routine &amp; Schedule Database | `TypeScript` `Database` | `STABLE` |
+| `[05]` | [**Portfolio**](https://github.com/Kazi-Tanvir/Portfolio) &bull; [Demo](https://tanvir778.netlify.app/) | Personal Web Platform &amp; Interactive UI | `React` `Modern CSS` | `ONLINE` |
+| `[06]` | [**LifeOS**](https://github.com/Kazi-Tanvir/Working/tree/main/LifeOS) | Personal Productivity &amp; Workflow System | `TypeScript` `Productivity` | `LABS` |
 
 </div>
 
@@ -156,18 +156,18 @@
 
 <p align="center">
   <a href="https://github.com/Kazi-Tanvir/PROJECTS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="PROJECTS pin" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="PROJECTS Repo" />
   </a>
-  <a href="https://github.com/Kazi-Tanvir/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Portfolio&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="Portfolio pin" />
+  <a href="https://github.com/Kazi-Tanvir/Working">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Working&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="Working Repo" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Kazi-Tanvir/Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Python&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="Python pin" />
+  <a href="https://github.com/Kazi-Tanvir/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Portfolio&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="Portfolio Repo" />
   </a>
-  <a href="https://github.com/Kazi-Tanvir/OLD_PROJECTS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=OLD_PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="OLD_PROJECTS pin" />
+  <a href="https://github.com/Kazi-Tanvir/Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Python&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" alt="Python Repo" />
   </a>
 </p>
 
