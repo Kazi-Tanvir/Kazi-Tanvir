@@ -194,12 +194,12 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Kazi-Tanvir/PROJECTS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="PROJECTS Monorepo" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Kazi-Tanvir&repo=PROJECTS&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="PROJECTS Monorepo" />
       </a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/Kazi-Tanvir/Working">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Working&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Working Monorepo" />
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=Kazi-Tanvir&repo=Working&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="100%" alt="Working Monorepo" />
       </a>
     </td>
   </tr>
@@ -218,12 +218,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazi-Tanvir&show_icons=true&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="410" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kazi-Tanvir&show_icons=true&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="410" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kazi-Tanvir&background=050C2A&border=E9EBFF&stroke=E9EBFF&ring=E9EBFF&fire=E9EBFF&currStreakNum=E9EBFF&sideNums=E9EBFF&currStreakLabel=E9EBFF&sideLabels=E9EBFF&dates=E9EBFF&hide_border=false" width="410" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazi-Tanvir&layout=compact&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="410" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kazi-Tanvir&layout=compact&bg_color=050C2A&title_color=E9EBFF&text_color=E9EBFF&icon_color=E9EBFF&border_color=E9EBFF&hide_border=false" width="410" alt="Top Languages" />
 </p>
 
 <br>
